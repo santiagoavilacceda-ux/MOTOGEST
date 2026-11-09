@@ -1,0 +1,6 @@
+{
+  "name": "MotoGest - Gestión de Taller y Garantías",
+  "description": "Sistema de gestión integral para taller de motocicletas con check-in fotográfico de entrada y centro de semáforo de garantías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
